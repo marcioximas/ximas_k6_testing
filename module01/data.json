@@ -1,0 +1,32 @@
+{
+    "crocodiles": [
+        {
+            "id": 1,
+            "name": "Bert",
+            "sex": "M",
+            "date_of_birth": "2010-06-27",
+            "age": 14
+        },
+        {
+            "id": 23,
+            "name": "Bert",
+            "sex": "M",
+            "date_of_birth": "2010-06-27",
+            "age": 15
+        },
+        {
+            "id": 12,
+            "name": "Bert",
+            "sex": "M",
+            "date_of_birth": "2010-06-27",
+            "age": 15
+        },
+        {
+            "id": 11,
+            "name": "Bert",
+            "sex": "M",
+            "date_of_birth": "2010-06-27",
+            "age": 15
+        }
+    ]
+}
